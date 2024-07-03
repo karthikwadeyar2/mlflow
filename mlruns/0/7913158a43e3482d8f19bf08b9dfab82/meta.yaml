@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2153435/OneDrive%20-%20Cognizant/Documents/MLOps/MLFlow-Manage-ML-Experiments/mlruns/0/7913158a43e3482d8f19bf08b9dfab82/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7913158a43e3482d8f19bf08b9dfab82
+run_name: bedecked-lamb-838
+run_uuid: 7913158a43e3482d8f19bf08b9dfab82
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720000399694
+status: 1
+tags: []
+user_id: '2153435'

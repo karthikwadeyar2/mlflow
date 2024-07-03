@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2153435/OneDrive%20-%20Cognizant/Documents/MLOps/MLFlow-Manage-ML-Experiments/mlruns/997125302746367355/1f310d0027384a5ca5357d925528578e/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '997125302746367355'
+lifecycle_stage: active
+run_id: 1f310d0027384a5ca5357d925528578e
+run_name: gentle-goose-721
+run_uuid: 1f310d0027384a5ca5357d925528578e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1720000595930
+status: 1
+tags: []
+user_id: '2153435'
