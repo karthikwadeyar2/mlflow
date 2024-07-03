@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2153435/OneDrive%20-%20Cognizant/Documents/MLOps/MLFlow-Manage-ML-Experiments/mlruns/997125302746367355/cbaa4eed0d1b4bd49b2f4c2a0e07c153/artifacts
+end_time: 1719999360855
+entry_point_name: ''
+experiment_id: '997125302746367355'
+lifecycle_stage: active
+run_id: cbaa4eed0d1b4bd49b2f4c2a0e07c153
+run_name: vaunted-auk-563
+run_uuid: cbaa4eed0d1b4bd49b2f4c2a0e07c153
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719999278907
+status: 3
+tags: []
+user_id: '2153435'

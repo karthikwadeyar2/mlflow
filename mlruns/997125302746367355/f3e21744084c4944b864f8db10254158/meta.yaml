@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2153435/OneDrive%20-%20Cognizant/Documents/MLOps/MLFlow-Manage-ML-Experiments/mlruns/997125302746367355/f3e21744084c4944b864f8db10254158/artifacts
+end_time: 1719999429203
+entry_point_name: ''
+experiment_id: '997125302746367355'
+lifecycle_stage: active
+run_id: f3e21744084c4944b864f8db10254158
+run_name: fearless-rat-919
+run_uuid: f3e21744084c4944b864f8db10254158
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719999391106
+status: 3
+tags: []
+user_id: '2153435'

@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2153435/OneDrive%20-%20Cognizant/Documents/MLOps/MLFlow-Manage-ML-Experiments/mlruns/789132616149909914/ddadda8f43e242ebbe1146174d1193c9/artifacts
+end_time: 1719988318077
+entry_point_name: ''
+experiment_id: '789132616149909914'
+lifecycle_stage: active
+run_id: ddadda8f43e242ebbe1146174d1193c9
+run_name: Example Demo
+run_uuid: ddadda8f43e242ebbe1146174d1193c9
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719988317853
+status: 3
+tags: []
+user_id: '2153435'

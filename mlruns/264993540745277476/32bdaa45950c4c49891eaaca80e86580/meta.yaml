@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2153435/OneDrive%20-%20Cognizant/Documents/MLOps/MLFlow-Manage-ML-Experiments/mlruns/264993540745277476/32bdaa45950c4c49891eaaca80e86580/artifacts
+end_time: 1719991808214
+entry_point_name: ''
+experiment_id: '264993540745277476'
+lifecycle_stage: active
+run_id: 32bdaa45950c4c49891eaaca80e86580
+run_name: victorious-snake-774
+run_uuid: 32bdaa45950c4c49891eaaca80e86580
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719991724023
+status: 3
+tags: []
+user_id: '2153435'

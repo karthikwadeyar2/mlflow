@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/2153435/OneDrive%20-%20Cognizant/Documents/MLOps/MLFlow-Manage-ML-Experiments/mlruns/789132616149909914/1dbb88ec47fd4668ad1d0c3b4a9489da/artifacts
+end_time: 1719988625200
+entry_point_name: ''
+experiment_id: '789132616149909914'
+lifecycle_stage: active
+run_id: 1dbb88ec47fd4668ad1d0c3b4a9489da
+run_name: rebellious-hen-607
+run_uuid: 1dbb88ec47fd4668ad1d0c3b4a9489da
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1719988624961
+status: 3
+tags: []
+user_id: '2153435'
